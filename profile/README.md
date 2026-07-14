@@ -1,19 +1,25 @@
 # Sinerla Development
 
-Welcome to Sinerla Development's GitHub organization! 
+Welcome to the official GitHub organization for **Sinerla Development**. We focus on building smart, efficient, and innovative software solutions, bridging the gap between hardware and code.
 
 ---
 
-### 👋 About Me
-"17-yo Finnish dual student. I code, automate smart homes, love audio tech, and can fix almost any hardware. If I'm not doing that, I'm at the gym."
+### 🛠️ Tech Stack & Skills
+
+* **Software Development:** Automation scripts, system integration, and custom software solutions.
+* **Hardware & IoT:** Smart home design, IoT integrations, and hardware diagnostics/repairs.
+* **Audio Engineering:** Audio tech setup, tuning, and hardware maintenance.
 
 ---
 
-### 🛠️ Tech & Skills
-- **Software:** Coding & Automation
-- **Hardware:** Smart home integrations, audio tech & hardware repairs
-- **Active Projects:** Check out our repositories below!
+### 🚀 Active Projects
+Explore our repositories below! We are constantly building and refining tools to make life more automated and connected.
 
-### 📬 Contact
-- **Website:** [sinerla.fi](https://sinerla.fi)
-- **Email:** [lauri@sinerla.fi](mailto:lauri@sinerla.fi)
+*  [sonos-connect-amp-gen-1-airplay-bridge](https://github.com/Sinerla-Development/sonos-connect-amp-gen-1-airplay-bridge)
+
+---
+
+### 📬 Connect with Me
+* **Website:** [sinerla.fi](https://sinerla.fi)
+* **Email:** [lauri@sinerla.fi](mailto:lauri@sinerla.fi)
+* **GitHub:** [@your-personal-username]

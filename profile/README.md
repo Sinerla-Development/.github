@@ -22,5 +22,5 @@ Explore our repositories below! We are constantly building and refining tools to
 ### 📬 Connect with us
 * **Website:** [sinerla.fi](https://sinerla.fi)
 * **Email:** [lauri@sinerla.fi](mailto:lauri@sinerla.fi)
-* **GitHub (Organization):** [github.com/sinerla](https://github.com/sinerla)
-* **GitHub (Personal):** [github.com/t-i-n-k-e-s](https://github.com/t-i-n-k-e-s)
+* **GitHub (Sinerla):** [github.com/t-i-n-k-e-s](https://github.com/sinerla)
+* **GitHub (Tinkes):** [github.com/t-i-n-k-e-s](https://github.com/t-i-n-k-e-s)

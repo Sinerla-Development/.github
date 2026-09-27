@@ -4,7 +4,7 @@ Welcome to the official GitHub organization for **Sinerla Development**. We focu
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 * **Software Development:** Automation scripts, system integration, and custom software solutions.
 * **Hardware & IoT:** Smart home design, IoT integrations, and hardware diagnostics/repairs.
@@ -12,14 +12,22 @@ Welcome to the official GitHub organization for **Sinerla Development**. We focu
 
 ---
 
-### 🚀 Active Projects
+## 🚀 Active Projects
+
 Explore our repositories below! We are constantly building and refining tools to make life more automated and connected.
 
-*  [sonos-connect-amp-gen-1-airplay-bridge](https://github.com/Sinerla-Development/sonos-connect-amp-gen-1-airplay-bridge)
+* [sonos-connect-amp-gen-1-airplay-bridge](https://github.com/Sinerla-Development/sonos-connect-amp-gen-1-airplay-bridge)
 
 ---
 
-### 📬 Connect with us
+## 🤝 Collaborations
+
+We're teaming up with **[Tinkes Productions](https://github.com/Tinkes-Productions)** on upcoming projects. As joint work ships, it'll be linked here alongside our own repositories.
+
+---
+
+## 📬 Connect with us
+
 * **Website:** [sinerla.fi](https://sinerla.fi)
 * **Email:** [lauri@sinerla.fi](mailto:lauri@sinerla.fi)
 * **GitHub (Sinerla):** [github.com/sinerla](https://github.com/sinerla)

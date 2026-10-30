@@ -15,7 +15,7 @@ Welcome to the official GitHub organization for **Sinerla Development**. We focu
 ## 🚀 Active Projects
 
 Explore our repositories below! We are constantly building and refining tools to make life more automated and connected.
-
+* [Whiteout](https://github.com/Sinerla-Development/Whiteout): an open source save editor for The Long Dark, for Windows and macOS. In development, with the first release expected by the end of November.
 * [sonos-connect-amp-gen-1-airplay-bridge](https://github.com/Sinerla-Development/sonos-connect-amp-gen-1-airplay-bridge)
 
 ---
